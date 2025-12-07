@@ -1,99 +1,61 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Welcome to our professional website. We provide high-quality products and services.">
-  <title>Welcome to Our Company</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: white;
-      color: #333;
-    }
+[index.md](https://github.com/user-attachments/files/24016329/index.md)
+---
+title: Shenzhen Great Components
+description: Global distributor of electronic components. TI, ADI, ST, NXP, XILINX, MICROCHIP, MURATA, SKYWORKS.
+---
 
-    header {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: #f1f1f1;
-      padding: 20px;
-    }
+# ![Logo](https://dummyimage.com/200x60/000/fff&text=Great+Components)
 
-    header h1 {
-      margin: 0;
-      font-size: 36px;
-      font-weight: bold;
-      letter-spacing: 1px;
-    }
+# **Shenzhen Great Components**
+### Global Electronic Components Distributor
 
-    .logo {
-      margin-right: 10px;
-      font-size: 36px;
-      font-weight: bold;
-    }
+---
 
-    .hero {
-      width: 100%;
-      height: 500px;
-      background-image: url('your-image-url.jpg'); /* Replace with your image URL */
-      background-size: cover;
-      background-position: center;
-    }
+## 🔧 What We Do
+We supply **original & authorized electronic components** from top global brands.  
+Our mission is simple: **fast delivery, reliable sourcing, competitive pricing**.
 
-    .content {
-      text-align: center;
-      padding: 40px;
-    }
+---
 
-    .content h2 {
-      font-size: 28px;
-      margin-bottom: 20px;
-    }
+## 🌍 Featured Brands
 
-    .content p {
-      font-size: 18px;
-      line-height: 1.6;
-      margin-bottom: 20px;
-    }
+| TI     | ADI       | ST     | NXP      |
+| ------ | --------- | ------ | -------- |
+| XILINX | MICROCHIP | MURATA | SKYWORKS |
 
-    .cta {
-      background-color: #333;
-      color: white;
-      padding: 15px 30px;
-      font-size: 18px;
-      text-decoration: none;
-      border-radius: 5px;
-    }
+---
 
-    footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #f1f1f1;
-      margin-top: 40px;
-    }
-  </style>
-</head>
-<body>
+## 📦 Product Categories
 
-  <header>
-    <div class="logo">🌀</div>
-    <h1>Our Company</h1>
-  </header>
+- ICs & Semiconductors  
+- RF Components  
+- Power Management  
+- MCU / MPU  
+- Memory Chips  
+- Sensors  
+- Modules & Wireless  
+- Passive Components  
 
-  <div class="hero"></div>
+---
 
-  <div class="content">
-    <h2>Welcome to Our Professional Website</h2>
-    <p>We specialize in providing high-quality products and services to meet your needs. Our goal is to ensure that every customer has a seamless experience with us, from start to finish. We believe in delivering results that exceed expectations.</p>
-    <p>Explore our products and services to learn more about how we can help you achieve your goals.</p>
-    <a href="#" class="cta">Learn More</a>
-  </div>
+## 💼 Why Choose Us
 
-  <footer>
-    <p>&copy; 2025 Our Company. All rights reserved.</p>
-  </footer>
+✔ 100% original & traceable  
+✔ Global procurement network  
+✔ Fast quotation (within 1 hour)  
+✔ Professional engineers support  
+✔ Stable stock + flexible sourcing  
+✔ Door-to-door worldwide shipping
 
-</body>
-</html>
+---
+
+## 📩 Contact Us
+
+**WhatsApp:** +86 19867755983  
+**Email:** 1974181001@qq.com  
+**Company:** Shenzhen Great Components  
+
+---
+
+[View Products →](products.md)  
+[Contact Us →](contact.md)
